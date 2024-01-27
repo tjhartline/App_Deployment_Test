@@ -1,0 +1,27 @@
+{
+  "name": "herokuapp",
+  "version": "1.0.0",
+  "description": "Attempting to create a server using Heroku and Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testing Command for Server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjhartline/server_cs499.git"
+  },
+  "keywords": [
+    "app",
+    "server",
+    "network"
+  ],
+  "author": "Tammy Hartline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjhartline/server_cs499/issues"
+  },
+  "homepage": "https://github.com/tjhartline/server_cs499#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
